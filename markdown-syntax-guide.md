@@ -1,7 +1,6 @@
 # Markdown (.md) Syntax Guide
 
 A quick reference for the most commonly used Markdown formatting elements.
-
 ---
 
 ## 1. Headings
